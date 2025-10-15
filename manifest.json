@@ -1,6 +1,6 @@
 {
-  "name": "Fuel Log Web App",
-  "short_name": "Fuel Log",
+  "name": "Autokm",
+  "short_name": "Autokm",
   "description": "A web application to log fuel usage and generate reports.",
   "start_url": "/Autokm.html/",
   "display": "standalone",
