@@ -18,21 +18,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "screenshots": [
-    {
-      "src": "/screenshots/screenshot1.png",
-      "sizes": "1280x720",
-      "type": "image/png",
-      "description": "Fuel Log Web App main interface"
-    },
-    {
-      "src": "/screenshots/screenshot2.png",
-      "sizes": "1280x720",
-      "type": "image/png",
-      "description": "Fuel Log Web App form input"
-    }
-  ],
-  "orientation": "portrait",
-  "prefer_related_applications": false
+  ]
 }
