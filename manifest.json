@@ -2,7 +2,7 @@
   "name": "Autokm",
   "short_name": "Autokm",
   "description": "A web application to log fuel usage and generate reports.",
-  "start_url": "/index.html/",
+  "start_url": "/Autokm/index.html/",
   "display": "standalone",
   "background_color": "#E0F7FA",
   "theme_color": "#004D40",
